@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title> About Msd </title>
+  </head>
+  <body style= "background-color: yellow;">
+    <h1 style= "color: red; text-align: center;">Ms Dhoni</h1>
+    <ul style="color: red; border: 4px solid red;">
+  <li>MS Dhoni is one of the greatest cricketers in the world.</li>
+  <li>His full name is Mahendra Singh Dhoni.</li>
+  <li>He was born on 7 July 1981 in Ranchi, Jharkhand.</li>
+  <li>Dhoni was the captain of the Indian cricket team.</li>
+  <li>He is famous for his calm and smart captaincy.</li>
+  <li>India won the 2007 T20 World Cup under his captaincy.</li>
+  <li>India won the 2011 Cricket World Cup under his leadership.</li>
+  <li>He is known as one of the best wicketkeepers in cricket history.</li>
+  <li>His nickname is "Captain Cool".</li>
+  <li>MS Dhoni is an inspiration for millions of cricket fans.</li>
+    </ul>
+    <p style="color: red; border: 4px solid red;">Read more about MS Dhoni:
+    <a href="https://en.wikipedia.org/wiki/Talk:MS_Dhoni">MS Dhoni</a>
+    </p>
+  </body>
+</html>
